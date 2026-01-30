@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a dental clinic built with HTML, Tailwind CSS, and JavaScript. This single-page website showcases dental services, team information, and contact functionality with a clean, professional design.
 
-![Live Demo](https://mohamedyfadl.github.io/Dentist-website/)
+[Live Demo](https://mohamedyfadl.github.io/Dentist-website/)
 
 ## ✨ Features
 
