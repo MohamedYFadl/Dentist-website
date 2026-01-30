@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+    --primary: #0056b3;
+    --foreground: #1a202c;
+    --secondary: #2c7a7b;
+    --muted-foreground: #64748b;
+    --card: #f8f9fa;
+    --border: #e2e8f0;
+    --accent: #38a169;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    letter-spacing: -.02em;
+    font-family: Playfair Display, serif;
+    font-weight: 700;
+}
+
+.text-primary {
+    color: var(--primary);
+}
+
+/* text-(--foreground) */
+
+@media (hover: hover) {
+    .hover\:text-primary:hover {
+        color: var(--primary);
+    }
+}
+
+@media (hover: hover) {
+
+    .hover\:bg-secondary:hover,
+    .hover\:bg-secondary\/80:hover {
+        background-color: var(--secondary);
+    }
+}
+
+.subheading {
+    letter-spacing: .02em;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+}
