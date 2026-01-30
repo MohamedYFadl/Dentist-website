@@ -13,6 +13,18 @@ A modern, responsive landing page for a dental clinic built with HTML, Tailwind 
 - **📞 Contact Integration** - Functional contact form with email capabilities
 - **🖼️ Visual Appeal** - Professional imagery and thoughtful typography
 
+
+##🎯 Key Sections
+
+1. Hero Section - Engaging header with call-to-action
+2. Services - Dental treatments and procedures offered
+3. About Clinic - Practice philosophy and values
+4. Team/Dentists - Professional staff introduction
+5. Testimonials - Patient reviews and experiences
+6. Contact - Location, hours, and contact form
+7. Footer - Links, copyright, and social media
+
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
